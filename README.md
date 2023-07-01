@@ -10,6 +10,7 @@ In the test of playing the classic control,cartpole, the PPO algorithm achive a 
 
 ## Project 1 Breakout
 
+File [Project of Break Out](Project_Break_out.ipynb) for the A2C algorithm using framework of stable baseline, using CnnPolicy for the network arch, 
 
 ## Project 2 Self-driving
 
