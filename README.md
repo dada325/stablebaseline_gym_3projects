@@ -14,5 +14,6 @@ File [Project of Break Out](Project_Break_out.ipynb) for the A2C algorithm using
 
 ## Project 2 Self-driving
 
+File [Self driving for racing car](Self_driving) is a testing of the algorithm of PPO in the stable baseline, CNN Policy for the network, 
 
 ## Project 3 Custom-Env
